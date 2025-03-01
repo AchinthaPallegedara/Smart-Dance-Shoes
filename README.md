@@ -79,8 +79,9 @@ Put on the **Smart Dance Shoes**, start moving, and watch the lights sync in rea
 
 ```
 📂 smart-dance-shoes
-│── 📁 firmware        # ESP32-S3 Code (C++)
-│── 📁 training        # Edge Impulse ML model files
+│── 📁 dancingShoe        # ESP32-S3 Code (C++)
+│── 📁 shoe_inferencing    # Edge Impulse ML model files
+│── 📁 newDancingshoe-export #Dataset exported for Edge Impulse
 │── 📁 hardware        # Circuit diagrams & schematics
 │── 📁 docs            # Project documentation
 │── README.md          # Project Overview
